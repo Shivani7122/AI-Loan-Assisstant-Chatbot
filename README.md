@@ -95,7 +95,7 @@ AI-Loan-Assisstant-Chatbot
 GitHub: https://github.com/Shivani7122
 
 **Chinmay Shukla**
-| Project Contributor| Backend & API Integration
+| Project Contributor | Backend & API Integration
 GitHub: https://github.com/ShuklaChinmay
 
 ---
