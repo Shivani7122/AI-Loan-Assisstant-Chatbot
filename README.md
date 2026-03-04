@@ -91,11 +91,11 @@ AI-Loan-Assisstant-Chatbot
 ## Contributors 👩‍💻
 
 **Shivani Gupta**
-Python Developer | AI / ML Enthusiast
+| Python Developer | AI / ML Enthusiast
 GitHub: https://github.com/Shivani7122
 
 **Chinmay Shukla**
-Project Contributor| Backend & API Integration
+| Project Contributor| Backend & API Integration
 GitHub: https://github.com/ShuklaChinmay
 
 ---
